@@ -1,3 +1,5 @@
+<!-- Sidebar navigation dibuat oleh: Putri Nabila -->
+
 <div class="bg-dark text-white p-3 vh-100" style="width:220px;">
     <h5 class="mb-4">Inventory Skincare</h5>
 

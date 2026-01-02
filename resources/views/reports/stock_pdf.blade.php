@@ -1,3 +1,9 @@
+<!--
+Template laporan stok PDF
+Diuji oleh : Lutfi Mulia
+Peran : Pengujian hasil laporan & validasi output PDF
+-->
+
 <!DOCTYPE html>
 <html>
 <head>

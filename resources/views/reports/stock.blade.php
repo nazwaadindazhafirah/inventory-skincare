@@ -1,3 +1,8 @@
+<!--
+Halaman laporan stok
+Diuji dan divalidasi oleh : Lutfi Mulia
+Peran : Testing & Quality Control
+-->
 @extends('layouts.app')
 
 @section('content')

@@ -1,4 +1,8 @@
 <?php
+/**
+ * Dibuat oleh : Nazwa Adinda Zhafirah | 202312047
+ * Deskripsi  : Middleware pembatasan akses berdasarkan role user
+ */
 
 namespace App\Http\Middleware;
 

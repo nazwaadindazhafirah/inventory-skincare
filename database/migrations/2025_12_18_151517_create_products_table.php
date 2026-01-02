@@ -1,4 +1,9 @@
 <?php
+/**
+ * Dibuat oleh : Nalla Prayadita | 202312042
+ * Peran      : Database Designer
+ * Deskripsi  : Struktur tabel produk
+ */
 
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;

@@ -1,5 +1,9 @@
 <?php
-
+/**
+ * Dibuat oleh : Nazwa Adinda Zhafirah | 202312047
+ * Peran      : Backend Developer
+ * Deskripsi  : Mengelola CRUD data produk
+ */
 namespace App\Http\Controllers;
 
 use App\Models\Product;

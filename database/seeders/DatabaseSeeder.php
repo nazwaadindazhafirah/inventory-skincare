@@ -1,4 +1,8 @@
 <?php
+/**
+ * Seeder data awal user & role
+ * Dibuat oleh : Nalla Prayadita
+ */
 
 namespace Database\Seeders;
 

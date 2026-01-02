@@ -1,4 +1,8 @@
 <?php
+/**
+ * Routing utama aplikasi Inventory Skincare
+ * Dibuat oleh : Nazwa Adinda Zhafirah | 202312047
+ */
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DashboardController;

@@ -1,3 +1,9 @@
+<!--
+ Dibuat oleh : Putri Nabila
+ Peran      : UI/UX Designer
+ Deskripsi  : Halaman login dengan tema pink soft
+-->
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
